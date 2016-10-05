@@ -14,6 +14,7 @@
 # limitations under the License.
 
 -include vendor/motorola/msm8916-common/BoardConfigVendor.mk
+-include device/qcom/common/BoardConfigCommon.mk
 
 VENDOR_PATH := device/motorola/msm8916-common
 
